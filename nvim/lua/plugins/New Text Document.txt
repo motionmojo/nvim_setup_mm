@@ -1,0 +1,139 @@
+I cant get fzf to work again. how did we get it to work last time?Looking at our chat history, here's exactly what we did to get it working:
+The Solution That Worked
+Step 1: Build the DLL manually
+powershellcd "C:\Users\stevi\AppData\Local\nvim-data\lazy\telescope-fzf-native.nvim"
+
+# Clean old build
+Remove-Item -Recurse -Force build -ErrorAction SilentlyContinue
+
+# Build fresh
+cmake -S. -Bbuild -DCMAKE_BUILD_TYPE=Release
+cmake --build build --config Release
+Step 2: Copy DLL to the right location
+The crucial step was copying the DLL from where it builds to where Neovim looks for it:
+powershell# Still in the telescope-fzf-native.nvim directory
+Copy-Item build/Release/libfzf.dll build/libfzf.dll
+Step 3: Restart Neovim
+Completely close and reopen Neovim.
+
+If It's Broken Again
+Check if the DLL still exists:
+powershellls "C:\Users\stevi\AppData\Local\nvim-data\lazy\telescope-fzf-native.nvim\build\libfzf.dll"
+If it's missing, the plugin was reinstalled and needs rebuilding.
+Your plugin config should look like:
+C:\Users\stevi\AppData\Local\nvim\lua\plugins\fzf.lua:
+luareturn {
+  {
+    'nvim-telescope/telescope-fzf-native.nvim',
+    build = 'cmake -S. -Bbuild -DCMAKE_BUILD_TYPE=Release && cmake --build build --config Release && copy build\\Release\\libfzf.dll build\\libfzf.dll',
+  }
+}
+C:\Users\stevi\AppData\Local\nvim\lua\plugins\telescope.lua:
+luareturn {
+  {
+    'nvim-telescope/telescope.nvim',
+    branch = 'master',
+    dependencies = { 
+      'nvim-lua/plenary.nvim',
+      'nvim-telescope/telescope-fzf-native.nvim',
+    },
+    config = function()
+      local telescope = require('telescope')
+      
+      telescope.setup({
+        defaults = {
+          file_ignore_patterns = { "node_modules", ".git/" },
+        },
+        extensions = {
+          fzf = {
+            fuzzy = true,
+            override_generic_sorter = true,
+            override_file_sorter = true,
+            case_mode = "smart_case",
+          }
+        }
+      })
+      
+      -- Load extension AFTER setup
+      pcall(telescope.load_extension, 'fzf')
+    end,
+  }
+}
+
+Quick Recovery
+Run these commands in order:
+powershell# Navigate to plugin
+cd "C:\Users\stevi\AppData\Local\nvim-data\lazy\telescope-fzf-native.nvim"
+
+# Rebuild
+cmake -S. -Bbuild -DCMAKE_BUILD_TYPE=Release
+cmake --build build --config Release
+
+# Copy DLL
+Copy-Item build/Release/libfzf.dll build/libfzf.dll
+
+# Verify it exists
+ls build/libfzf.dll
+Then restart Neovim.
+What error are you seeing now? That will help me diagnose what broke!SBWindows PowerShell
+Copyright (C) Microsoft Corporation. All rights reserved.
+Install the latest PowerShell for new features and improvements! https://aka.ms/PSWindows
+PS C:\Users\stevi> cd "C:\Users\stevi\AppData\Local\nvim-data\lazy\telescope-fzf-native.nvim"
+PS C:\Users\stevi\AppData\Local\nvim-data\lazy\telescope-fzf-native.nvim> cmake -S. -Bbuild -DCMAKE_BUILD_TYPE=Release
+-- Configuring done (0.2s)
+-- Generating done (0.1s)
+-- Build files have been written to: C:/Users/stevi/AppData/Local/nvim-data/lazy/telescope-fzf-native.nvim/build
+PS C:\Users\stevi\AppData\Local\nvim-data\lazy\telescope-fzf-native.nvim> cmake --build build --config Release
+MSBuild version 17.14.18+a338add32 for .NET Framework
+  1>Checking Build System
+  Building Custom Rule C:/Users/stevi/AppData/Local/nvim-data/lazy/telescope-fzf-native.nvim/CMakeLists.txt
+  Auto build dll exports
+  fzf.vcxproj -> C:\Users\stevi\AppData\Local\nvim-data\lazy\telescope-fzf-native.nvim\build\Release\libfzf.dll
+  Building Custom Rule C:/Users/stevi/AppData/Local/nvim-data/lazy/telescope-fzf-native.nvim/CMakeLists.txt
+PS C:\Users\stevi\AppData\Local\nvim-data\lazy\telescope-fzf-native.nvim> Copy-Item build/Release/libfzf.dll build/libfzf.dll
+PS C:\Users\stevi\AppData\Local\nvim-data\lazy\telescope-fzf-native.nvim> ls build/libfzf.dll
+    Directory: C:\Users\stevi\AppData\Local\nvim-data\lazy\telescope-fzf-native.nvim\build
+Mode                 LastWriteTime         Length Name
+----                 -------------         ------ ----
+-a----        2025/12/03     17:37          22528 libfzf.dll
+PS C:\Users\stevi\AppData\Local\nvim-data\lazy\telescope-fzf-native.nvim>getting this error
+   Error  17:41:15 msg_show.echoerr [Fzf-lua] 'fzf' is not a valid executable, aborting. Please make sure 'fzf' is in installed.Show moreAh! Different error now - this is about fzf-lua, not telescope-fzf-native!
+You have TWO different fzf plugins installed:
+
+telescope-fzf-native.nvim ✅ (just fixed - this one works now)
+fzf-lua ❌ (needs the actual fzf executable)
+
+The Problem
+fzf-lua is trying to run but can't find the fzf command-line tool.
+Solution: Install fzf executable
+Option 1: Via Chocolatey (Easiest)
+powershellchoco install fzf
+Option 2: Via Scoop
+powershellscoop install fzf
+Option 3: Manual Download
+
+Go to: https://github.com/junegunn/fzf/releases
+Download fzf-*-windows_amd64.zip (or arm64 if you have ARM)
+Extract fzf.exe
+Put it somewhere in your PATH (like C:\Windows\System32)
+
+Option 4: Disable fzf-lua (if you don't need it)
+Since telescope is working now, you might not need fzf-lua at all:
+Create: C:\Users\stevi\AppData\Local\nvim\lua\plugins\disable-fzf-lua.lua
+luareturn {
+  { "ibhagwan/fzf-lua", enabled = false },
+}
+Then restart Neovim.
+
+Verify fzf installation
+After installing, check:
+powershellfzf --version
+You should see: 0.56.3 (or similar version number)
+
+Which one do you want to use?
+
+telescope-fzf-native ✅ Already working - uses Telescope UI
+fzf-lua ❌ Needs fzf.exe - lighter/faster alternative to Telescope
+
+My recommendation: Just disable fzf-lua since telescope is already working. You don't need both!
+Try the disable approach first, then restart Neovim. Let me know if the error goes away!
