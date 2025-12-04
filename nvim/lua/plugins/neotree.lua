@@ -1,12 +1,34 @@
 return {
-  {
     "nvim-neo-tree/neo-tree.nvim",
-    branch = "v3.x",
     dependencies = {
-      "nvim-lua/plenary.nvim",
-      "MunifTanjim/nui.nvim",
-      "nvim-tree/nvim-web-devicons", -- optional, but recommended
+        "nvim-lua/plenary.nvim",
+        "nvim-tree/nvim-web-devicons",
+        "MunifTanjim/nui.nvim",
     },
-    lazy = false, -- neo-tree will lazily load itself
-  }
+    config = function()
+        require("neo-tree").setup({
+            filesystem = {
+                filtered_items = {
+                    visible = false,  -- Hide filtered items by default
+                    hide_dotfiles = false,  -- Keep showing .gitignore, etc.
+                    hide_gitignored = false,
+                    hide_hidden = true,  -- Hide hidden files (Windows)
+                    hide_by_name = {
+                        ".git",
+                        ".DS_Store",
+                        "thumbs.db",
+                    },
+                    hide_by_pattern = {
+                        "*.gd.uid",      -- Hide all .gd.uid files
+                        "*.import",      -- Also hide Godot import files
+                        "*.remap",       -- Hide remap files
+                    },
+                    never_show = {
+                        ".git",
+                        ".godot",        -- Hide Godot's internal folder
+                    },
+                },
+            },
+        })
+    end,
 }

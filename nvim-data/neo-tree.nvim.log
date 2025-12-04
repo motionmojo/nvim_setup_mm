@@ -1,0 +1,3 @@
+[ERROR 2025-12-03-18:31:31] ...nvim-data/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:853: Error opening file: vim/_editor.lua:375: nvim_exec2(), line 1: Vim(edit):E325: ATTENTION
+[ERROR 2025-12-03-18:32:49] ...nvim-data/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:853: Error opening file: vim/_editor.lua:375: nvim_exec2(), line 1: Vim(edit):E325: ATTENTION
+[ERROR 2025-12-03-18:35:00] ...nvim-data/lazy/neo-tree.nvim/lua/neo-tree/utils/init.lua:853: Error opening file: vim/_editor.lua:375: nvim_exec2(), line 1: Vim(edit):E325: ATTENTION

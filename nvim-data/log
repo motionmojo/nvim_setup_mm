@@ -1,0 +1,1027 @@
+WRN 2025-12-03T13:19:29.143 ui.42484   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T13:19:29.144 ui.42484   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T13:19:29.144 ui.42484   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T13:19:29.144 ui.42484   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T13:19:29.144 ui.42484   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T13:20:06.407 ui.42484   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T13:20:07.930 ui.32264   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T13:20:07.933 ui.32264   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T13:20:07.933 ui.32264   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T13:20:07.933 ui.32264   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T13:20:07.933 ui.32264   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T13:25:00.072 ui.32264   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T13:25:05.249 ui.53488   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T13:25:05.251 ui.53488   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T13:25:05.251 ui.53488   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T13:25:05.251 ui.53488   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T13:25:05.251 ui.53488   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T13:26:27.210 ui.53488   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T13:26:30.955 ui.53508   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T13:26:30.955 ui.53508   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T13:26:30.955 ui.53508   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T13:26:30.956 ui.53508   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T13:26:30.956 ui.53508   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T13:27:26.264 ui.53508   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T13:27:29.232 ui.10732   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T13:27:29.232 ui.10732   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T13:27:29.232 ui.10732   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T13:27:29.233 ui.10732   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T13:27:29.233 ui.10732   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T13:27:50.055 ui.10732   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T13:29:16.032 ui.18848   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T13:29:16.033 ui.18848   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T13:29:16.033 ui.18848   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T13:29:16.033 ui.18848   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T13:29:16.033 ui.18848   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T13:31:26.553 ui.49620   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T13:31:26.554 ui.49620   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T13:31:26.554 ui.49620   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T13:31:26.554 ui.49620   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T13:31:26.554 ui.49620   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T13:32:14.515 ui.51008   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T13:32:14.516 ui.51008   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T13:32:14.516 ui.51008   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T13:32:14.516 ui.51008   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T13:32:14.516 ui.51008   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T13:33:37.246 ui.51008   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T13:33:40.622 ui.49620   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T13:33:41.479 ui.18848   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T13:34:32.428 ui.48660   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T13:34:32.428 ui.48660   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T13:34:32.428 ui.48660   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T13:34:32.428 ui.48660   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T13:34:32.428 ui.48660   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T13:34:56.905 ui.48660   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T13:36:04.303 ui.51048   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T13:36:04.303 ui.51048   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T13:36:04.303 ui.51048   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T13:36:04.303 ui.51048   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T13:36:04.303 ui.51048   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T13:38:17.408 ui.18848   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T13:38:17.408 ui.18848   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T13:38:17.408 ui.18848   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T13:38:17.409 ui.18848   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T13:38:17.409 ui.18848   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T13:38:39.071 ui.18848   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T13:38:39.595 ui.51048   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T14:23:20.501 ui.29884   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T14:23:20.501 ui.29884   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T14:23:20.501 ui.29884   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T14:23:20.501 ui.29884   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T14:23:20.501 ui.29884   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T14:28:05.009 ui.29208   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T14:28:05.009 ui.29208   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T14:28:05.010 ui.29208   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T14:28:05.010 ui.29208   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T14:28:05.010 ui.29208   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T14:28:07.819 ui.29208   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T14:32:49.483 ui.53092   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T14:32:49.483 ui.53092   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T14:32:49.484 ui.53092   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T14:32:49.484 ui.53092   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T14:32:49.484 ui.53092   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T14:34:09.221 ui.53092   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T14:37:03.931 ui.52728   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T14:37:03.931 ui.52728   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T14:37:03.931 ui.52728   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T14:37:03.931 ui.52728   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T14:37:03.933 ui.52728   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T14:37:20.964 ui.52728   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T14:39:32.718 ui.34372   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T14:39:32.719 ui.34372   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T14:39:32.719 ui.34372   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T14:39:32.719 ui.34372   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T14:39:32.719 ui.34372   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:36:13.587 ui.4468    tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:36:13.587 ui.4468    tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:36:13.587 ui.4468    tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:36:13.587 ui.4468    tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:36:13.587 ui.4468    tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:36:28.287 ui.4468    tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:36:36.145 ui.30364   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:36:36.145 ui.30364   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:36:36.146 ui.30364   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:36:36.146 ui.30364   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:36:36.146 ui.30364   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:36:43.731 ui.30364   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:40:41.076 ui.52280   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:40:41.076 ui.52280   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:40:41.076 ui.52280   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:40:41.076 ui.52280   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:40:41.076 ui.52280   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:41:21.981 ui.52280   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:43:34.449 ui.13608   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:43:34.451 ui.13608   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:43:34.451 ui.13608   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:43:34.451 ui.13608   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:43:34.451 ui.13608   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:43:55.217 ui.13608   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:43:59.459 ui.17372   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:43:59.460 ui.17372   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:43:59.460 ui.17372   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:43:59.460 ui.17372   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:43:59.460 ui.17372   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:46:07.939 ui.17372   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:46:10.374 ui.25972   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:46:10.374 ui.25972   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:46:10.374 ui.25972   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:46:10.375 ui.25972   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:46:10.375 ui.25972   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:46:15.403 ui.25972   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:47:45.196 ui.53124   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:47:45.197 ui.53124   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:47:45.197 ui.53124   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:47:45.197 ui.53124   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:47:45.197 ui.53124   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:47:51.256 ui.53124   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:48:45.535 ui.54608   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:48:45.537 ui.54608   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:48:45.537 ui.54608   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:48:45.537 ui.54608   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:48:45.537 ui.54608   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:48:50.851 ui.54608   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:49:04.029 ui.980     tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:49:04.030 ui.980     tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:49:04.030 ui.980     tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:49:04.030 ui.980     tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:49:04.030 ui.980     tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:49:22.463 ui.980     tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:49:25.210 ui.5972    tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:49:25.210 ui.5972    tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:49:25.211 ui.5972    tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:49:25.211 ui.5972    tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:49:25.211 ui.5972    tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:49:29.207 ui.5972    tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:50:47.714 ui.47712   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:50:47.714 ui.47712   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:50:47.714 ui.47712   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:50:47.714 ui.47712   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:50:47.714 ui.47712   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:50:52.061 ui.47712   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:52:42.244 ui.21776   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:52:42.244 ui.21776   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:52:42.244 ui.21776   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:52:42.244 ui.21776   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:52:42.244 ui.21776   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:53:39.883 ui.21776   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:53:42.309 ui.36852   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:53:42.309 ui.36852   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:53:42.309 ui.36852   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:53:42.309 ui.36852   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:53:42.309 ui.36852   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T15:54:16.845 ui.36852   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T15:57:51.537 ui.45084   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T15:57:51.538 ui.45084   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T15:57:51.538 ui.45084   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T15:57:51.538 ui.45084   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T15:57:51.538 ui.45084   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T17:38:10.318 ui.36088   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T17:38:10.319 ui.36088   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T17:38:10.319 ui.36088   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T17:38:10.319 ui.36088   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T17:38:10.319 ui.36088   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T17:38:43.445 ui.36088   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T17:39:38.354 ui.60124   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T17:39:38.355 ui.60124   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T17:39:38.355 ui.60124   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T17:39:38.355 ui.60124   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T17:39:38.355 ui.60124   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T17:41:04.779 ui.60124   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T17:41:13.288 ui.41068   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T17:41:13.288 ui.41068   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T17:41:13.289 ui.41068   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T17:41:13.289 ui.41068   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T17:41:13.289 ui.41068   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T17:42:53.680 ui.58868   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T17:42:53.681 ui.58868   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T17:42:53.681 ui.58868   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T17:42:53.681 ui.58868   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T17:42:53.681 ui.58868   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T17:42:58.720 ui.58868   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T17:43:59.109 ui.27904   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T17:43:59.109 ui.27904   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T17:43:59.109 ui.27904   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T17:43:59.109 ui.27904   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T17:43:59.109 ui.27904   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T17:46:15.958 ui.41068   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T17:46:16.977 ui.27904   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T18:28:32.563 ui.22864   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:28:32.563 ui.22864   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:28:32.563 ui.22864   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:28:32.564 ui.22864   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:28:32.564 ui.22864   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:29:30.021 ui.22864   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T18:29:32.504 ui.40272   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:29:32.504 ui.40272   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:29:32.504 ui.40272   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:29:32.505 ui.40272   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:29:32.505 ui.40272   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:31:18.877 ui.40272   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T18:31:21.880 ui.42392   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:31:21.881 ui.42392   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:31:21.881 ui.42392   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:31:21.881 ui.42392   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:31:21.881 ui.42392   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:32:37.371 ui.42392   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T18:32:40.941 ui.59948   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:32:40.941 ui.59948   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:32:40.941 ui.59948   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:32:40.942 ui.59948   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:32:40.942 ui.59948   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:32:59.250 ui.59948   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T18:34:49.585 ui.44560   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:34:49.586 ui.44560   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:34:49.586 ui.44560   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:34:49.586 ui.44560   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:34:49.586 ui.44560   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:50:01.821 ui.44560   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T18:50:09.813 ui.58120   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:50:09.813 ui.58120   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:50:09.813 ui.58120   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:50:09.814 ui.58120   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:50:09.814 ui.58120   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:50:16.596 ui.58120   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T18:52:45.183 ui.13220   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:52:45.184 ui.13220   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:52:45.184 ui.13220   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:52:45.184 ui.13220   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:52:45.184 ui.13220   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:52:52.570 ui.13220   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T18:53:02.869 ui.26176   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:53:02.869 ui.26176   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:53:02.869 ui.26176   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:53:02.870 ui.26176   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:53:02.870 ui.26176   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:53:12.947 ui.26176   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T18:53:16.328 ui.55564   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:53:16.328 ui.55564   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:53:16.328 ui.55564   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:53:16.328 ui.55564   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:53:16.328 ui.55564   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:53:23.699 ui.55564   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T18:54:38.625 ui.37424   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:54:38.625 ui.37424   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:54:38.625 ui.37424   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:54:38.626 ui.37424   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:54:38.626 ui.37424   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:55:02.357 ui.37424   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T18:55:04.468 ui.52128   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:55:04.468 ui.52128   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:55:04.468 ui.52128   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:55:04.468 ui.52128   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:55:04.468 ui.52128   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:57:43.272 ui.36124   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T18:57:43.272 ui.36124   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T18:57:43.273 ui.36124   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T18:57:43.273 ui.36124   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T18:57:43.273 ui.36124   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T18:58:59.260 ui.36124   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T19:01:51.933 ui.7836    tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T19:01:51.933 ui.7836    tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T19:01:51.933 ui.7836    tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T19:01:51.933 ui.7836    tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T19:01:51.933 ui.7836    tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T19:02:03.376 ui.7836    tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T19:02:43.371 ui.38676   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T19:02:43.371 ui.38676   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T19:02:43.371 ui.38676   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T19:02:43.372 ui.38676   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T19:02:43.372 ui.38676   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+ERR 2025-12-03T19:02:45.042 nvim.9836.0 socket_watcher_init:58: Host lookup failed: C:\Users\stevi\Documents\more-pocketsv-9/server.pipe
+WRN 2025-12-03T19:03:15.736 ui.38676   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T19:03:18.368 ui.58872   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T19:03:18.368 ui.58872   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T19:03:18.368 ui.58872   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T19:03:18.368 ui.58872   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T19:03:18.369 ui.58872   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+ERR 2025-12-03T19:03:20.011 nvim.50600.0 socket_watcher_init:58: Host lookup failed: C:\Users\stevi\Documents\more-pocketsv-9/server.pipe
+WRN 2025-12-03T19:06:20.607 ui.59404   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T19:06:20.607 ui.59404   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T19:06:20.607 ui.59404   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T19:06:20.607 ui.59404   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T19:06:20.607 ui.59404   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+ERR 2025-12-03T19:06:20.850 nvim.26380.0 socket_watcher_init:58: Host lookup failed: C:\Users\stevi\Documents\more-pocketsv-9/server.pipe
+WRN 2025-12-03T19:06:26.763 ui.59404   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T19:07:03.743 ui.49568   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T19:07:03.743 ui.49568   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T19:07:03.743 ui.49568   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T19:07:03.743 ui.49568   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T19:07:03.743 ui.49568   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+ERR 2025-12-03T19:07:03.972 nvim.7836.0 socket_watcher_init:58: Host lookup failed: C:\Users\stevi\Documents\more-pocketsv-9/server.pipe
+WRN 2025-12-03T19:09:33.591 ui.49568   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T19:09:40.622 ui.62448   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T19:09:40.622 ui.62448   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T19:09:40.622 ui.62448   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T19:09:40.623 ui.62448   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T19:09:40.623 ui.62448   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T19:09:45.891 ui.62448   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T19:09:53.583 ui.61772   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T19:09:53.583 ui.61772   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T19:09:53.584 ui.61772   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T19:09:53.584 ui.61772   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T19:09:53.584 ui.61772   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T19:10:21.194 ui.61772   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T20:28:34.785 ui.52128   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T20:28:39.532 ui.58872   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T20:28:44.472 ui.37476   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T20:28:44.472 ui.37476   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T20:28:44.472 ui.37476   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T20:28:44.472 ui.37476   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T20:28:44.472 ui.37476   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T20:29:18.125 ui.37476   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T20:32:07.188 ui.5284    tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T20:32:07.189 ui.5284    tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T20:32:07.189 ui.5284    tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T20:32:07.189 ui.5284    tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T20:32:07.189 ui.5284    tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T20:32:43.383 ui.5284    tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T20:32:45.485 ui.62148   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T20:32:45.485 ui.62148   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T20:32:45.485 ui.62148   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T20:32:45.485 ui.62148   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T20:32:45.485 ui.62148   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+ERR 2025-12-03T20:34:14.187 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:14.208 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:14.290 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+	[C]: in function 'nvim__redraw'
+	...Data/Local/nvim-data/lazy/snacks.nvim/lua/snacks/win.lua:511: in function 'redraw'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:724: in function 'layout'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:354: in function 'process'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:334: in function <...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:333>
+	[C]: in function 'xpcall'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:333: in function <...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:328>
+ERR 2025-12-03T20:34:14.343 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+	[C]: in function 'nvim__redraw'
+	...Data/Local/nvim-data/lazy/snacks.nvim/lua/snacks/win.lua:511: in function 'redraw'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:724: in function 'layout'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:354: in function 'process'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:334: in function <...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:333>
+	[C]: in function 'xpcall'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:333: in function <...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:328>
+ERR 2025-12-03T20:34:17.311 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:17.382 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+	[C]: in function 'nvim__redraw'
+	...Data/Local/nvim-data/lazy/snacks.nvim/lua/snacks/win.lua:511: in function 'redraw'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:724: in function 'layout'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:354: in function 'process'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:334: in function <...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:333>
+	[C]: in function 'xpcall'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:333: in function <...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:328>
+ERR 2025-12-03T20:34:17.443 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+	[C]: in function 'nvim__redraw'
+	...Data/Local/nvim-data/lazy/snacks.nvim/lua/snacks/win.lua:511: in function 'redraw'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:724: in function 'layout'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:354: in function 'process'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:334: in function <...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:333>
+	[C]: in function 'xpcall'
+	...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:333: in function <...Local/nvim-data/lazy/snacks.nvim/lua/snacks/notifier.lua:328>
+ERR 2025-12-03T20:34:18.454 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:18.459 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.590 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.731 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.747 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.804 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.828 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.848 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.866 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.882 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.898 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.924 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.944 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.958 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.975 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:19.991 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.008 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.027 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.053 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.085 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.111 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.151 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.173 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.192 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.243 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.273 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.290 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.310 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.323 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.345 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.364 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.421 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.451 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.465 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.485 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.507 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:20.570 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.207 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.223 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.268 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.329 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.346 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.363 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.378 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.408 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.423 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.519 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.533 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.550 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.628 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.643 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.659 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.700 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.720 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.735 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:21.753 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:34:23.755 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:36:58.728 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:36:58.751 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:37:00.623 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:37:26.644 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:37:26.658 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:37:26.731 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:37:28.759 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+	[C]: in function 'nvim__redraw'
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/ui/cmdline.lua:261: in function <...Local/nvim-data/lazy/noice.nvim/lua/noice/ui/cmdline.lua:255>
+	[C]: in function 'pcall'
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/ui/cmdline.lua:300: in function 'on_render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/text/init.lua:120: in function 'highlight'
+	...Data/Local/nvim-data/lazy/nui.nvim/lua/nui/line/init.lua:58: in function 'highlight'
+	...Data/Local/nvim-data/lazy/nui.nvim/lua/nui/line/init.lua:73: in function 'render'
+	...
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:163: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:161>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:88: in function 'ui_attach_cb'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:27: in function 'process_queue'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:138: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:118>
+ERR 2025-12-03T20:37:28.775 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+	[C]: in function 'nvim__redraw'
+	...im-data/lazy/blink.cmp/lua/blink/cmp/lib/window/init.lua:465: in function <...im-data/lazy/blink.cmp/lua/blink/cmp/lib/window/init.lua:463>
+ERR 2025-12-03T20:37:30.949 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+ERR 2025-12-03T20:37:32.668 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+	[C]: in function 'nvim__redraw'
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/ui/cmdline.lua:261: in function <...Local/nvim-data/lazy/noice.nvim/lua/noice/ui/cmdline.lua:255>
+	[C]: in function 'pcall'
+	...Local/nvim-data/lazy/noice.nvim/lua/noice/ui/cmdline.lua:300: in function 'on_render'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/text/init.lua:120: in function 'highlight'
+	...Data/Local/nvim-data/lazy/nui.nvim/lua/nui/line/init.lua:58: in function 'highlight'
+	...Data/Local/nvim-data/lazy/nui.nvim/lua/nui/line/init.lua:73: in function 'render'
+	...
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:163: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:161>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function <.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:134>
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/view/init.lua:170: in function 'display'
+	...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:214: in function <...l/nvim-data/lazy/noice.nvim/lua/noice/message/router.lua:147>
+	[C]: in function 'xpcall'
+	.../Local/nvim-data/lazy/noice.nvim/lua/noice/util/call.lua:149: in function 'try'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:88: in function 'ui_attach_cb'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:27: in function 'process_queue'
+	...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:138: in function <...ta/Local/nvim-data/lazy/noice.nvim/lua/noice/ui/init.lua:118>
+ERR 2025-12-03T20:37:32.686 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+	[C]: in function 'nvim__redraw'
+	...im-data/lazy/blink.cmp/lua/blink/cmp/lib/window/init.lua:465: in function <...im-data/lazy/blink.cmp/lua/blink/cmp/lib/window/init.lua:463>
+ERR 2025-12-03T20:37:33.586 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+WRN 2025-12-03T20:38:13.202 ui.19196   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T20:38:13.203 ui.19196   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T20:38:13.203 ui.19196   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T20:38:13.203 ui.19196   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T20:38:13.203 ui.19196   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T20:38:21.663 ui.19196   tui_stop:641: TUI: timed out waiting for DA1 response
+ERR 2025-12-03T20:38:36.929 nvim.62912.0 decor_provider_error:29: Error in decoration provider "win" (ns=org-bullets):
+Lua: ...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: Parser could not be created for buffer 37 and language "org"
+stack traceback:
+	[C]: in function 'error'
+	...m Files/Neovim/share/nvim/runtime/lua/vim/treesitter.lua:111: in function 'get_parser'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:237: in function 'get_mark_positions'
+	...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:280: in function <...ocal/nvim-data/lazy/org-bullets.nvim/lua/org-bullets.lua:276>
+WRN 2025-12-03T20:39:53.276 ui.62140   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T20:39:53.277 ui.62140   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T20:39:53.277 ui.62140   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T20:39:53.277 ui.62140   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T20:39:53.277 ui.62140   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T20:40:31.122 ui.62140   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T20:40:35.662 ui.36352   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T20:40:35.662 ui.36352   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T20:40:35.662 ui.36352   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T20:40:35.662 ui.36352   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T20:40:35.663 ui.36352   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-03T20:40:51.225 ui.36352   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-03T20:40:53.104 ui.38120   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-03T20:40:53.104 ui.38120   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-03T20:40:53.104 ui.38120   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-03T20:40:53.104 ui.38120   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-03T20:40:53.105 ui.38120   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-04T07:42:04.173 ui.50160   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-04T07:42:04.173 ui.50160   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-04T07:42:04.174 ui.50160   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-04T07:42:04.174 ui.50160   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-04T07:42:04.174 ui.50160   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-04T07:43:04.914 ui.14004   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-04T07:43:04.914 ui.14004   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-04T07:43:04.914 ui.14004   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-04T07:43:04.914 ui.14004   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-04T07:43:04.914 ui.14004   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-04T07:54:09.149 ui.29156   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-04T07:54:09.149 ui.29156   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-04T07:54:09.149 ui.29156   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-04T07:54:09.149 ui.29156   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-04T07:54:09.149 ui.29156   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-04T09:05:31.192 ui.29156   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-04T09:05:38.402 ui.14672   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-04T09:05:38.404 ui.14672   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-04T09:05:38.404 ui.14672   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-04T09:05:38.404 ui.14672   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-04T09:05:38.404 ui.14672   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-04T09:05:45.355 ui.14672   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-04T09:05:47.764 ui.51692   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-04T09:05:47.764 ui.51692   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-04T09:05:47.764 ui.51692   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-04T09:05:47.764 ui.51692   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-04T09:05:47.764 ui.51692   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-04T09:06:54.767 ui.51692   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-04T09:06:59.310 ui.42180   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-04T09:06:59.311 ui.42180   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-04T09:06:59.311 ui.42180   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-04T09:06:59.311 ui.42180   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-04T09:06:59.311 ui.42180   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-04T09:09:06.157 ui.42180   tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-04T09:09:10.253 ui.27260   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-04T09:09:10.253 ui.27260   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-04T09:09:10.253 ui.27260   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-04T09:09:10.253 ui.27260   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-04T09:09:10.253 ui.27260   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-04T09:22:15.585 ui.5116    tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-04T09:22:15.586 ui.5116    tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-04T09:22:15.586 ui.5116    tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-04T09:22:15.586 ui.5116    tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-04T09:22:15.586 ui.5116    tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-04T09:22:24.637 ui.5116    tui_stop:641: TUI: timed out waiting for DA1 response
+WRN 2025-12-04T09:22:26.712 ui.15304   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-04T09:22:26.712 ui.15304   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-04T09:22:26.712 ui.15304   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-04T09:22:26.712 ui.15304   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-04T09:22:26.712 ui.15304   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
+WRN 2025-12-04T10:35:22.026 ui.14056   tui_handle_term_mode:233: TUI: terminal mode 69 detected, state 2
+WRN 2025-12-04T10:35:22.027 ui.14056   tui_handle_term_mode:223: TUI: terminal mode 2026 unavailable, state 0
+WRN 2025-12-04T10:35:22.027 ui.14056   tui_handle_term_mode:233: TUI: terminal mode 2027 detected, state 3
+WRN 2025-12-04T10:35:22.027 ui.14056   tui_handle_term_mode:223: TUI: terminal mode 2031 unavailable, state 0
+WRN 2025-12-04T10:35:22.027 ui.14056   tui_handle_term_mode:223: TUI: terminal mode 2048 unavailable, state 0
